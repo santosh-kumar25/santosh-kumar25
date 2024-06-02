@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @santosh-kumar25
-- 👀 I’m interested in coding and games
-- 🌱 I’m currently learning React and Javascript
-- 💞️ I’m looking to collaborate on React projects
+- 👀 I’m interested in architecture design and verification.
+- 🌱 I’m currently learning verilog.
+- 💞️ I’m looking to collaborate on digital design projects
 - 📫 How to reach me kumar.santosh9@yahoo.com
 
 <!---
